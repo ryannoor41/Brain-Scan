@@ -3,8 +3,8 @@ INSTRUCTIONS:
 -Best to be run in PyCharm  
 -Make sure you install these following libraries/package:  
  &nbsp; &nbsp; -opencv-python  
- &nbsp;    -Pillow  
- &nbsp;    -imutils  
- &nbsp;    -tensorflow  
- &nbsp;    -customtkinter  
- &nbsp;    -customtkinter-pyinstaller  
+ &nbsp; &nbsp; -Pillow  
+ &nbsp; &nbsp; -imutils  
+ &nbsp; &nbsp; -tensorflow  
+ &nbsp; &nbsp; -customtkinter  
+ &nbsp; &nbsp; -customtkinter-pyinstaller  
